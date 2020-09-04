@@ -426,7 +426,6 @@ footer #social-media-footer ul li:hover a .fa-github {
   flex:1;
   padding: 8px 16px;
   color:white;
-  margin-right: auto;
   box-shadow: inset 27px 0 51px -18px rgba(0,0,0,0.75);
 }
 
