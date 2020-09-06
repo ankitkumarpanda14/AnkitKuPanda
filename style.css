@@ -367,6 +367,11 @@ footer #social-media-footer ul li:hover a .fa-github {
   color: #bbb;
 }
 
+
+footer #social-media-footer ul li:hover a .fa-linkedin {
+  color: #0e76a8;
+}
+
 /* Blog List page */
 
 .page-heading{
