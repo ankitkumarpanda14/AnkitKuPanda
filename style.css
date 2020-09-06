@@ -25,6 +25,12 @@ a {
   color: black;
 }
 
+
+a_resume {
+  text-decoration: none;
+  color: white;
+}
+
 a:hover {
   text-decoration: underline;
 }
