@@ -525,7 +525,8 @@ footer #social-media-footer ul li:hover a .fa-linkedin {
 
   footer #social-media-footer a .fa-facebook,
   footer #social-media-footer a .fa-youtube,
-  footer #social-media-footer a .fa-github {
+  footer #social-media-footer a .fa-github
+  footer #social-media-footer a .fa-linkedin {
     color: black;
     transition: 0.4s;
   }
