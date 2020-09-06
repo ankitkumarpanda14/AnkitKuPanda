@@ -336,7 +336,8 @@ footer #right-footer {
 
 footer #social-media-footer a .fa-facebook,
 footer #social-media-footer a .fa-youtube,
-footer #social-media-footer a .fa-github {
+footer #social-media-footer a .fa-github 
+footer #social-media-footer a .fa-linkedin {
   color: white;
   transition: 0.4s;
 }
