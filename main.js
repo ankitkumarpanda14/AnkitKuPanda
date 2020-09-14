@@ -13,6 +13,15 @@ searchIcon.addEventListener('click', function () {
   }
 });
 
+function openNav() {
+  slideoutMenu.style.width = "250px";
+}
+
+/* Set the width of the side navigation to 0 */
+function closeNav() {
+  slideoutMenu.style.width = "0";
+} 
+
 menuIcon.addEventListener('click', function () {
   if (slideoutMenu.style.opacity == "1") {
     slideoutMenu.style.opacity = '0';
